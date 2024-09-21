@@ -1,24 +1,24 @@
 #-----------------------------------------------------------
-# Vivado v2024.1 (64-bit)
-# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
-# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
-# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Sat Sep 21 15:53:40 2024
-# Process ID: 24564
-# Current directory: C:/Users/perez/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1
+# Vivado v2024.1.1 (64-bit)
+# SW Build 5094488 on Fri Jun 14 08:59:21 MDT 2024
+# IP Build 5091682 on Fri Jun 14 16:55:04 MDT 2024
+# SharedData Build 5094118 on Fri Jun 14 01:09:43 MDT 2024
+# Start of session at: Sat Sep 21 16:38:23 2024
+# Process ID: 22768
+# Current directory: C:/Users/janim/INEL5206-Switching2/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1
 # Command line: vivado.exe -log System.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source System.tcl
-# Log file: C:/Users/perez/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1/System.vds
-# Journal file: C:/Users/perez/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1\vivado.jou
-# Running On        :DESKTOP-9VA6RTJ
+# Log file: C:/Users/janim/INEL5206-Switching2/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1/System.vds
+# Journal file: C:/Users/janim/INEL5206-Switching2/BCDtoSevenSegment/BCDtoSevenSegment.runs/synth_1\vivado.jou
+# Running On        :LAPTOP-ON6Q1QQI
 # Platform          :Windows Server 2016 or Windows 10
 # Operating System  :22631
 # Processor Detail  :Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz
 # CPU Frequency     :1498 MHz
 # CPU Physical cores:4
 # CPU Logical cores :8
-# Host memory       :12650 MB
-# Swap memory       :30064 MB
-# Total Virtual     :42714 MB
-# Available Virtual :24789 MB
+# Host memory       :8278 MB
+# Swap memory       :7310 MB
+# Total Virtual     :15588 MB
+# Available Virtual :3019 MB
 #-----------------------------------------------------------
 source System.tcl -notrace

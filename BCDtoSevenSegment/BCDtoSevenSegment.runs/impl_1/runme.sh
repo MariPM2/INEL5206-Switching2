@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/perez/BCDtoSevenSegment/BCDtoSevenSegment.runs/impl_1'
+HD_PWD='C:/Users/janim/INEL5206-Switching2/BCDtoSevenSegment/BCDtoSevenSegment.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -42,7 +42,7 @@ EAStep()
 }
 
 # pre-commands:
-/bin/touch .write_bitstream.begin.rst
+/bin/touch .init_design.begin.rst
 EAStep vivado -log System.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source System.tcl -notrace
 
 
